@@ -17,3 +17,79 @@ vendor/
 
 # Ignore virtual envirioment
 vm/
+
+# Arquivos de byte-code gerados pelo Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pacotes de C que são compilados localmente
+*.so
+
+# Pacotes e dependências (geralmente gerenciados por pip, poetry ou venv)
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Arquivos de tradução (gerados pelo Django, por exemplo)
+*.mo
+*.pot
+
+# Logs e banco de dados local
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Ambiente virtual e arquivos de projetos (se usar Poetry)
+.venv
+
+# Ignorar o diretório de build e arquivos de distribuição (se empacotar sua aplicação)
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Arquivos temporários do Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Configurações de IDEs e editores (VS Code, PyCharm, etc)
+.vscode/
+.idea/
+*.swp
+*.swo
