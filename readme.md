@@ -8,6 +8,8 @@ This project is based on RAG concept, so IA models can receive files and informa
 
 In this approach, a CSV file with historical diagnostic data is inserted into a vectorial database. The stored data is used by IA model to get context.
 
+![Project description](./storage/files/images/banner.png)
+
 # Core Technologies
 
 This project uses:
