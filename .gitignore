@@ -1,0 +1,19 @@
+# Ignorar arquivos de sistema e pastas ocultas
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração sensíveis
+.env
+config.json
+
+# Ignorar pastas de dependências ou build
+node_modules/
+dist/
+build/
+vendor/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignore virtual envirioment
+vm/

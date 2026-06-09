@@ -1,0 +1,20 @@
+Date,Carmaker,Car Model,Entry Status,Diagnostic,Price
+2022-04-16,Ford,Edge,running,Eletrical breakdown,$ 223.89
+2022-04-18,Ford,Fusion,running,Poor breaking system,$ 550.77
+2023-11-12,Toyota,Corola,not working,Eletronic fuel injection desabled,$ 367.89
+2023-09-20,GM,Celta,running,Oxygen sensor Circuit 1 bad signal,$ 99.99
+2023-02-02,GM,Agile,running,Missfire in cilinder 4,$ 156.90
+2023-03-09,Hyundai,Hb20,running,Multiple missfire,$ 200.00
+2024-12-31,vw,Gol,running,Oxygen sensor Circuit 1 bad signal,$ 99.99
+2024-05-07,GM,Celta,not working,Pahse sensor bad signal,$ 77.90
+2024-09-12,GM,Celta,running,Coil signal random interruption,$ 89.90
+2024-11-13,GM,Cruze,running,Front ligths system not working,$ 39.99
+2025-10-10,VW,Colbalt,not working,Ingnition engine desabled,$ 33.27
+2025-11-10,Toyota,Yaris,running,Back ligths system bad signal,$ 78.99
+2025-12-16,Mercedes,C180,not working,Key code demaged,$ 39.99
+2025-07-09,Renault,Sandero,running,Missfire in cilinder 1 and 4,$ 189.90
+2025-08-10,Renault,Duster,not working,Multiple missfire,$ 200.00
+2026-01-31,GWM,ORA,running,Poor breaking system,$ 550.77
+2026-02-27,VW,Gol,running,Eletronic fuel injection desabled,$ 367.89
+2026-06-06,GM,Celta,not working,Oxygen sensor Circuit 1 bad signal,$ 99.99
+2026-05-05,GM,Celta,running,Oxygen sensor Circuit 1 bad signal,$ 99.99
