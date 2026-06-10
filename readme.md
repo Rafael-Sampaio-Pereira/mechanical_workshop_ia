@@ -34,7 +34,14 @@ This was made during study period crossing multiples web tutorials.
 2 - So, activate the virtual envirioment\
 `. vm/bin/activate`
 
-3 - then run the python main file\
+3 - Install app dependences
+`pip install requirements.txt`
+
+4 - Pull Ollama models
+`sudo docker exec -it ollama ollama pull mxbai-embed-large`
+`sudo docker exec -it ollama ollama pull llama3.2`
+
+5 - then run the python main file\
 `python main.py` or `python3 main.py`
 
 ![Project Screenshot](./storage/files/images/index.png)
